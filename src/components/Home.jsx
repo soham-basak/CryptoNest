@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import { millify } from "millify";
 import { Typography, Row, Col, Statistic } from "antd";
 import { Link } from "react-router-dom";
@@ -64,7 +64,7 @@ const Home = () => {
           Latest Crypto News
         </Title>
         <Title level={3} className="show-more">
-          <Link to="/crypto">Show More</Link>
+          <Link to="/news">Show More</Link>
         </Title>
       </div>
       <News simplified />
