@@ -34,6 +34,7 @@ a:hover{
 }
 .routes{
     padding: 20px;
+    margin-left: 250px;
 }
 .nav-container{
     position: fixed;
