@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# CryptoNest - Your Ultimate Cryptocurrency Information Hub
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to CryptoNest, your one-stop destination for all things cryptocurrency. This web application, built with React.js, Ant Design, and Redux RTK Query, provides real-time insights into the world of cryptocurrencies. Utilizing data from the Coinranking API and Bing News Search API, CryptoNest empowers users with comprehensive information and the latest news about cryptocurrencies.
 
-## Available Scripts
+![CryptoNest Banner 1](banners/banner1.png)
 
-In the project directory, you can run:
+![CryptoNest Banner 2](banners/banner2.png)
 
-### `npm start`
+![CryptoNest Banner 3](banners/banner3.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Demo
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Check out the live demo of CryptoNest: [Demo Link](https://cryptonest.netlify.app/)
 
-### `npm test`
+## Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Global Crypto Stats
 
-### `npm run build`
+Stay informed about the global cryptocurrency market with key statistics, including:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Total Cryptocurrencies
+- Total Exchanges
+- Total Market Cap
+- Total 24h Volume
+- Total Markets
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Top 10 Cryptocurrencies
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Explore the top 10 cryptocurrencies dominating the market. Get a quick overview of their rankings, current prices, and more.
 
-### `npm run eject`
+### Individual Coin Details
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Access detailed information about each cryptocurrency, including:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Coin Name and Symbol
+- Current Price in USD
+- Rank
+- 24-hour Trading Volume
+- Market Capitalization
+- All-time High Price
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Price History Charts
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Visualize price history using interactive line charts. Select different time periods to track price fluctuations over time.
 
-## Learn More
+### Latest Crypto News
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Stay updated with the latest crypto news articles. Get real-time updates on the ever-changing world of cryptocurrencies.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Technologies Used
 
-### Code Splitting
+- **React.js**: Building interactive user interfaces.
+- **Ant Design**: Stylish and responsive UI components.
+- **Redux RTK Query**: Efficient management of API queries and data caching.
+- **Chart.js**: Creating interactive and dynamic charts.
+- **Coinranking API**: Real-time cryptocurrency data.
+- **Bing News Search API**: Latest crypto-related news articles.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Getting Started
 
-### Analyzing the Bundle Size
+1. Clone this repository.
+2. Install dependencies using `npm install`.
+3. Start the development server with `npm start`.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Credits
 
-### Making a Progressive Web App
+Special thanks to Coinranking API and Bing News Search API for providing essential data.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Authors
 
-### Advanced Configuration
+- [Dexter](https://github.com/soham-basak)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Contribution
 
-### Deployment
+Contributions are welcome! If you encounter issues or have suggestions, feel free to create a pull request.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## License
 
-### `npm run build` fails to minify
+This project is licensed under the [MIT License](LICENSE).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Explore CryptoNest and stay ahead in the cryptocurrency world today! 🚀🌐
