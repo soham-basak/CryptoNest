@@ -74,8 +74,5 @@ Special thanks to Coinranking API and Bing News Search API for providing essenti
 
 Contributions are welcome! If you encounter issues or have suggestions, feel free to create a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 Explore CryptoNest and stay ahead in the cryptocurrency world today! 🚀🌐
