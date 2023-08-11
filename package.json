@@ -9,7 +9,6 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "antd": "^5.8.2",
-    "axios": "^1.4.0",
     "chat.js": "^1.0.2",
     "html-react-parser": "^4.2.1",
     "millify": "^6.1.0",
