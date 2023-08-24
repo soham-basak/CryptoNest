@@ -20,7 +20,6 @@ import Loader from "./Loader";
 
 const { Title, Text } = Typography;
 const { Option } = Select;
-
 const CryptoDetails = () => {
   const { coinId } = useParams();
   const [timePeriod, setTimePeriod] = useState("7d");
